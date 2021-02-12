@@ -1,2 +1,3 @@
 # dumping-website
-Dumping website
+Dumping noptiz.ru data to Excel or CSV
+
